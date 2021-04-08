@@ -1,4 +1,4 @@
-# amazon_redesign
+# Amazon App Redesign in Flutter
 
 A new Flutter project.
 
